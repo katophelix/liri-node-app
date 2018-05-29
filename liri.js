@@ -1,3 +1,5 @@
+console.log("is this thing on?");
+
 require("dotenv").config();
 var Twitter = require('twitter');
 var keys = require('./keys.js');
